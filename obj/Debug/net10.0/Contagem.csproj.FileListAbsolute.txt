@@ -1,0 +1,14 @@
+D:\Aulas CSHARP\Contagem\bin\Debug\net10.0\Contagem.exe
+D:\Aulas CSHARP\Contagem\bin\Debug\net10.0\Contagem.deps.json
+D:\Aulas CSHARP\Contagem\bin\Debug\net10.0\Contagem.runtimeconfig.json
+D:\Aulas CSHARP\Contagem\bin\Debug\net10.0\Contagem.dll
+D:\Aulas CSHARP\Contagem\bin\Debug\net10.0\Contagem.pdb
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.AssemblyInfoInputs.cache
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.AssemblyInfo.cs
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.csproj.CoreCompileInputs.cache
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.dll
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\refint\Contagem.dll
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.pdb
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.genruntimeconfig.cache
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\ref\Contagem.dll
