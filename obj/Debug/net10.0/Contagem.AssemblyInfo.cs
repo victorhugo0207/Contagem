@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa065c478b8b510e65ec3302cd84981e805712b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contagem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,4 @@
-﻿using System;
-using System.Threading;
-
-class Program
-{
-    static void Main()
-    {
-        Console.Write("Contando até dez: ");
+﻿        Console.Write("Contando até dez: ");
 
         Console.Write("0 ");
         Thread.Sleep(1000);
@@ -41,5 +34,3 @@ class Program
         Thread.Sleep(1000);
 
         Console.WriteLine();
-    }
-}

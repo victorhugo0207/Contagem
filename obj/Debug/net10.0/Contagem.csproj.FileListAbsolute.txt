@@ -12,3 +12,4 @@ D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\refint\Contagem.dll
 D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.pdb
 D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.genruntimeconfig.cache
 D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\ref\Contagem.dll
+D:\Aulas CSHARP\Contagem\obj\Debug\net10.0\Contagem.sourcelink.json
